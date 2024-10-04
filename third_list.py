@@ -8,3 +8,7 @@ print('max(grades)', max(grades))
 print('sum(grades)', sum(grades))
 
 print('statistics.mean(grades)', statistics.mean(grades))
+
+import random
+
+print('random.choice(student)', random.choice(student))
