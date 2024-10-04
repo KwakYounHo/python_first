@@ -11,3 +11,7 @@ import math
 
 print('math.sqrt(4)',math.sqrt(4)) # square root
 print('math.pow(4,2)',math.pow(4,2)) # power
+
+import random
+
+print('random.random()',random.random()) # random float (between 0 and 1)
